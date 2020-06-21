@@ -90,4 +90,4 @@ print("Our results are as follows:")
 print("0 represents no spam while 1 represents spam.")
 print(result1)
 print(result2)
-
+#prints results
